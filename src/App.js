@@ -715,34 +715,24 @@ Each NFT can form a completely different life trajectory, you can interpret them
             </s.TextTitle>
             <s.SpacerLarge/>
             <PanelGroup style={{width: "80%", borderColor: "#A9D0D2"}} accordion bordered>
-    <Panel header="what is an nft?" defaultExpanded>
+    <Panel header="How much?" defaultExpanded>
     <s.TextP style={{textAlign: "left"}}>
-          lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+          0.2 ETHW
           </s.TextP>
     </Panel>
-    <Panel header="how can i mint">
+    <Panel header="MaxSupply">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    7777
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="Will it increase in value after purchase?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    I can not guarantee it.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="Does your nft have other features like games, or defi?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
-          </s.TextP>
-    </Panel>
-    <Panel header="what is hashlips">
-    <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
-          </s.TextP>
-    </Panel>
-    <Panel header="what is hashlips">
-    <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    No, it is just a picture.
           </s.TextP>
     </Panel>
   </PanelGroup>
