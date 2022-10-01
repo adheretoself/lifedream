@@ -482,7 +482,7 @@ function App() {
 
         <s.Container flex={1} jc={"center"} ai={"center"}>
           <s.TextTitle>
-            Mint Your {CONFIG.NFT_NAME}
+            Mint is Live
           </s.TextTitle>
 
         </s.Container>
