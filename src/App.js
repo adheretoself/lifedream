@@ -715,21 +715,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </s.TextP>
             </s.SecContainer>
 
-            <s.SecContainer id="sneak">
-            <s.TextTitle>
-            Sneak Peaks
-            </s.TextTitle>
-            <s.SpacerLarge/>
-            <s.CBOX>
-            <Carousel autoplay className="custom-slider">
-    <img src="/config/images/1.jpg" />
-    <img src="/config/images/2.jpg" />
-    <img src="/config/images/3.jpg" />
-    <img src="/config/images/4.jpg" />
-    <img src="/config/images/5.jpg" />
-  </Carousel>
-  </s.CBOX>
-              </s.SecContainer>
 
               <s.SecContainer id="faq">
             <s.TextTitle>
