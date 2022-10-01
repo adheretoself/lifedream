@@ -445,11 +445,8 @@ function App() {
 
           <s.Headerlinks>
             <s.StyledLink href="#story">
-              Story
+              NOTE
             </s.StyledLink >
-            <s.StyledLink href="#sneak">
-               Sneak Peaks
-              </s.StyledLink>
               <s.StyledLink href="#faq">
                FAQ
               </s.StyledLink>
@@ -467,9 +464,6 @@ function App() {
           </a>
           <a href={CONFIG.Discord} target={"_blank"}>
           <s.Icons src="/config/images/discord.svg" alt="discord" />
-          </a>
-          <a href={CONFIG.MARKETPLACE_LINK} target={"_blank"}>
-          <s.Icons src="/config/images/opensea.svg" alt="opensea" />
           </a>
           </s.socialDiv>
           <WalletBox>
@@ -702,7 +696,7 @@ function App() {
         <s.SpacerLarge />
         <s.SecContainer id="story">
         <s.TextTitle>
-            Please Read
+            NOTE
             </s.TextTitle>
             <s.SpacerLarge/>
             <s.TextP>
@@ -766,9 +760,6 @@ Each NFT can form a completely different life trajectory, you can interpret them
           </a>
           <a href={CONFIG.Discord} target={"_blank"}>
           <s.Icons src="/config/images/discord.svg" alt="discord" />
-          </a>
-          <a href={CONFIG.MARKETPLACE_LINK} target={"_blank"}>
-          <s.Icons src="/config/images/opensea.svg" alt="opensea" />
           </a>
           </s.socialDiv>
           <s.SpacerLarge/>
