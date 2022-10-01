@@ -702,16 +702,15 @@ function App() {
         <s.SpacerLarge />
         <s.SecContainer id="story">
         <s.TextTitle>
-            STORY
+            Please Read
             </s.TextTitle>
             <s.SpacerLarge/>
             <s.TextP>
 
-lorem ipsum
+<br></br>
+Many people may not understand my nft because its content is not portraits or animal pictures. My nft contain four pictures, which are childhood, youth, manhood, and old age. Each picture is a story. Through the randomly generated characteristics of nft, his life has infinite possibilities, different life experiences and different endings. 
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.            
+Each NFT can form a completely different life trajectory, you can interpret them with your thoughts, I believe, you will love them. Some of these stories also have Easter eggs that are sure to surprise you.            
 </s.TextP>
             </s.SecContainer>
 
