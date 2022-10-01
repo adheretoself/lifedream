@@ -145,7 +145,7 @@ export const ResponsiveWrapper = styled.div`
   width: 70%;
   border: 2px solid white;
   border-radius: 40px;
-  background: linear-gradient(90deg, rgba(135,142,20,1) 10%, rgba(0,125,223,1) 93%);
+  background: linear-gradient(60deg, rgba(225,225,225) 10%, rgba(14,14,14) 93%);
     @media (min-width: 767px) {
     flex-direction: row;
   }
